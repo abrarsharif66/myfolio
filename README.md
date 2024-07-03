@@ -13,5 +13,5 @@ This is a customized template that I have used for showcasing my professional li
 
 ## :handshake: Contact
 
-Sakhawat Hossain - [@Linkedin](https://www.linkedin.com/in/abrar-sharif/) -
+Abrar Sharif - [@Linkedin](https://www.linkedin.com/in/abrar-sharif/) -
 abrarsharif66@gmail.com 
