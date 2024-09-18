@@ -1418,6 +1418,22 @@ header .logo a {
 .intro-social li a:hover, .intro-social li a:focus {
 	color: #cc005f;
 }
+.intro-social li img.custom-icon {
+    width: 30px;  /* Match this with other icons if necessary */
+    height: auto;
+    vertical-align: middle; /* Aligns with other icons */
+}
+
+/* Ensure all icons have consistent padding/margin */
+.intro-social li a, .intro-social li a:visited {
+    color: #FFFFFF;
+    display: inline-block;
+    vertical-align: middle; /* Ensures consistent alignment for Font Awesome and image icons */
+}
+.intro-social li img.custom-icon2 {
+    width: 21.5px; /* Adjust the size if necessary */
+    height: auto;
+}
 
 /**
  * responsive:
